@@ -32,3 +32,7 @@ Upon installation, the plugin will create a CPT called "Toggle PSD". This is whe
 == FAQ ==
 1. Where is the negative margin being set?
 It is being set in Javascript. It takes the width of your image, halves it and sets that to the negative margin.
+
+== Screenshots ==
+
+1. Toggle PSD in action
